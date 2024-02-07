@@ -8,5 +8,6 @@
 - Login Page
   - Account Info Page, Once Logged In
 - Sign Up Page
+  - Redirects to Login Page after Registering
 - Build Your Own Page
   - Coming Soon (GIF Placeholder)
