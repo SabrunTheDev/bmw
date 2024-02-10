@@ -16,4 +16,7 @@
 - FAQs
   - Coming Soon (GIF Placeholder)
 - About
+
   - Coming Soon (GIF Placeholder)
+
+- Video is low quality due to GitHub restrictions
