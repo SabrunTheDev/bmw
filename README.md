@@ -12,8 +12,8 @@
 - Build Your Own Page
   - Coming Soon (GIF Placeholder)
 - Models Page
-  - Not currently functional (Coming Soon)
+  - Coming Soon (GIF Placeholder)
 - FAQs
-  - Not currently functional (Coming Soon)
+  - Coming Soon (GIF Placeholder)
 - About
-  - Not currently functional (Coming Soon)
+  - Coming Soon (GIF Placeholder)
