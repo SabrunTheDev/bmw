@@ -11,3 +11,9 @@
   - Redirects to Login Page after Registering
 - Build Your Own Page
   - Coming Soon (GIF Placeholder)
+- Models Page
+  - Not currently functional (Coming Soon)
+- FAQs
+  - Not currently functional (Coming Soon)
+- About
+  - Not currently functional (Coming Soon)
