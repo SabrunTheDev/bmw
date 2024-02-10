@@ -12,7 +12,8 @@
 - Build Your Own Page
   - Coming Soon (GIF Placeholder)
 - Models Page
-  - Coming Soon (GIF Placeholder)
+  - Select a Model dropdown
+    - Submit button redirects to BMW website
 - FAQs
   - Coming Soon (GIF Placeholder)
 - About
