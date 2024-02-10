@@ -163,3 +163,14 @@ span {
   margin-top: 5%;
   margin-left: 27.5%;
 }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  margin-left: 2%;
+}
